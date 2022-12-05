@@ -4385,26 +4385,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\1975607\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Users\\vathu\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1975607\\Documents\\GitHub\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\vathu\\OneDrive\\Desktop\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
       "projectName": "ECommerce.Api.Products.Tests",
-      "projectPath": "C:\\Users\\1975607\\Documents\\GitHub\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
-      "packagesPath": "C:\\Users\\1975607\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1975607\\Documents\\GitHub\\ECommerce\\ECommerce.Api.Products.Tests\\obj\\",
+      "projectPath": "C:\\Users\\vathu\\OneDrive\\Desktop\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
+      "packagesPath": "C:\\Users\\vathu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vathu\\OneDrive\\Desktop\\ECommerce\\ECommerce.Api.Products.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\1975607\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\vathu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -4413,15 +4410,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\1975607\\Documents\\GitHub\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
-              "projectPath": "C:\\Users\\1975607\\Documents\\GitHub\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj"
+            "C:\\Users\\vathu\\OneDrive\\Desktop\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
+              "projectPath": "C:\\Users\\vathu\\OneDrive\\Desktop\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj"
             }
           }
         }
@@ -4472,7 +4468,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   }
